@@ -1,7 +1,7 @@
 # TypeORM_SQLITE
 Configuración de typeorm en nestjs node backend
 
--- install typerORM
+-- Install typerORM
 npm install --save @nestjs/typeorm typeorm
 
 -- Primero probemos con sqlite3@5.0.0
